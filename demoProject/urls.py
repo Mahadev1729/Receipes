@@ -17,7 +17,7 @@ Including another URLconf
 
 from django.contrib import admin #type:ignore
 from django.urls import path #type:ignore
-from ReceipeApp.
+
 
 urlpatterns = [
     path("admin/", admin.site.urls),
